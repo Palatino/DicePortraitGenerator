@@ -5,11 +5,13 @@ Small application to transform any given image into a composition done with dice
 .Net 6
 WPF
 WMMW
+
+
 Input:
-[![Input](https://github.com/Palatino/DicePortraitGenerator/blob/master/.github/images/DDV.jpg)]
+![Input](https://github.com/Palatino/DicePortraitGenerator/blob/master/.github/images/DDV.jpg)
 
 Output:
 
-[![Input](https://github.com/Palatino/DicePortraitGenerator/blob/master/.github/images/DDV_Dice.png)]
+![Input](https://github.com/Palatino/DicePortraitGenerator/blob/master/.github/images/DDV_Dice.png)
 
 
