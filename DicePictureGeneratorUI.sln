@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DicePictureGeneratorUI", "DicePictureGeneratorUI\DicePictureGeneratorUI.csproj", "{68DD1360-DB71-4E20-92D7-60491097E959}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DicePictureGenerator", "DicePictureGenerator\DicePictureGenerator.csproj", "{00A4D4D3-D4A1-43E1-A4CA-584AAD5F7EBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68DD1360-DB71-4E20-92D7-60491097E959}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68DD1360-DB71-4E20-92D7-60491097E959}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68DD1360-DB71-4E20-92D7-60491097E959}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68DD1360-DB71-4E20-92D7-60491097E959}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00A4D4D3-D4A1-43E1-A4CA-584AAD5F7EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00A4D4D3-D4A1-43E1-A4CA-584AAD5F7EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00A4D4D3-D4A1-43E1-A4CA-584AAD5F7EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00A4D4D3-D4A1-43E1-A4CA-584AAD5F7EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D48677F-840E-490A-BE36-C2FB76DF94DD}
+	EndGlobalSection
+EndGlobal
